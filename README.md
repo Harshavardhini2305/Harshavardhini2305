@@ -19,10 +19,10 @@
 
 <h3 align="left">Education:</h3>
 <p align="left">
-  <strong>Bachelor of Technology (B.Tech)</strong> - Computer Science and Engineering (Ongoing)<br />
-  <em>University/Institute Name</em> - City, Country<br />
-  <br />
-  Currently in my 5th semester, learning about Data Structures, Algorithms, and Web Development. Interested in pursuing a career in Frontend Development.
+  <strong>Bachelor of Technology (B.Tech) - Computer Science and Engineering</strong><br />
+  <em>University Name (or Institute)</em> - City, Country<br />
+  <strong>Currently in Semester 5</strong><br />
+  Learning Data Structures, Algorithms, Web Development, and exploring frontend technologies.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
