@@ -36,8 +36,8 @@
   <strong>Web Technologies:</strong> HTML5, CSS3, JavaScript, React, Bootstrap, jQuery<br />
   <strong>Version Control:</strong> Git, GitHub<br />
   <strong>Databases:</strong> MySQL, MongoDB (learning)<br />
-  <strong>Other Tools:</strong> Visual Studio Code, Postman, Figma<br />
-  <strong>IDE/Editor:</strong> VS Code, Eclipse, IntelliJ IDEA<br />
+  <strong>Other Tools:</strong> Visual Studio Code<br />
+  <strong>IDE/Editor:</strong> VS Code, Eclipse<br />
 </div>
 
 <hr>
@@ -71,8 +71,8 @@
 <h3 align="left">Achievements:</h3>
 <div style="background-color:#f9f9f9; padding: 15px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
   <ul>
-    <li>Completed over 225 problems on LeetCode, focusing on Data Structures & Algorithms.</li>
-    <li>Maintaining a coding consistency streak with daily problem-solving on LeetCode and HackerRank.</li>
+    <li>Completed over 50 problems on LeetCode, focusing on Data Structures & Algorithms.</li>
+    <li>Maintaining a coding consistency streak with daily problem-solving on LeetCode.</li>
     <li>Completed numerous projects in web development and have a strong interest in building interactive and dynamic websites.</li>
   </ul>
 </div>
