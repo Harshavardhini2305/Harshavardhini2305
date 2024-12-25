@@ -17,53 +17,67 @@
   <a href="https://www.hackerrank.com/harshavardhini2305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshavardhini2305" height="30" width="40" /></a>
 </p>
 
+<hr>
+
 <h3 align="left">Education:</h3>
-<p align="left">
+<div style="background-color:#f1f1f1; padding: 15px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
   <strong>Bachelor of Technology (B.Tech) in Computer Science and Engineering</strong><br />
   <em>Parul University</em> | Vadodara, Gujarat<br />
   <strong>Currently in Semester 5</strong><br />
   Focus areas: Data Structures, Algorithms, Web Development, Frontend Technologies (HTML, CSS, JavaScript).<br />
   Passionate about solving real-world problems through coding and eager to learn more about technologies like React and Node.js.
-</p>
+</div>
+
+<hr>
 
 <h3 align="left">Skills & Technologies:</h3>
-<p align="left">
+<div style="background-color:#f9f9f9; padding: 15px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
   <strong>Languages:</strong> C, C++, JavaScript, Python<br />
-  <strong>Web Technologies:</strong> HTML5, CSS3, JavaScript, React, Bootstrap<br />
+  <strong>Web Technologies:</strong> HTML5, CSS3, JavaScript, React, Bootstrap, jQuery<br />
   <strong>Version Control:</strong> Git, GitHub<br />
   <strong>Databases:</strong> MySQL, MongoDB (learning)<br />
-  <strong>Other Tools:</strong> Visual Studio Code<br />
-  <strong>IDE/Editor:</strong> VS Code, Eclipse<br />
-</p>
+  <strong>Other Tools:</strong> Visual Studio Code, Postman, Figma<br />
+  <strong>IDE/Editor:</strong> VS Code, Eclipse, IntelliJ IDEA<br />
+</div>
+
+<hr>
 
 <h3 align="left">Projects:</h3>
-<p align="left">
+<div style="background-color:#f9f9f9; padding: 15px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
   <strong>Temperature Converter:</strong> A web app for converting temperatures between Celsius, Fahrenheit, and Kelvin.<br />
   <strong>Stopwatch:</strong> A stopwatch web app built with HTML, CSS, and JavaScript for time tracking.<br />
   <strong>Personal Portfolio:</strong> My own portfolio website showcasing my projects and skills. Built with HTML, CSS, and JavaScript.<br />
   <strong>LeetCode Solutions:</strong> A collection of my solutions to various algorithmic problems on LeetCode.
-</p>
+</div>
+
+<hr>
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshavardhini2305&show_icons=true&locale=en&layout=compact" alt="harshavardhini2305" /></p>
+<div style="background-color:#f1f1f1; padding: 15px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshavardhini2305&show_icons=true&locale=en&layout=compact" alt="harshavardhini2305" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshavardhini2305&show_icons=true&locale=en" alt="harshavardhini2305" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshavardhini2305&" alt="harshavardhini2305" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshavardhini2305&show_icons=true&locale=en" alt="harshavardhini2305" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshavardhini2305&" alt="harshavardhini2305" /></p>
+<hr>
 
 <h3 align="left">My Coding Journey:</h3>
-<p align="left">
+<div style="background-color:#f9f9f9; padding: 15px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
   I started my coding journey in my college years with a passion for web development. Over time, I have honed my skills in front-end technologies, particularly HTML, CSS, JavaScript, and React. Currently, I am expanding my knowledge of algorithms and data structures to solve complex problems efficiently. I aim to improve my skills further and work on impactful projects that solve real-world challenges.
-</p>
+</div>
+
+<hr>
 
 <h3 align="left">Achievements:</h3>
-<p align="left">
+<div style="background-color:#f9f9f9; padding: 15px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
   <ul>
     <li>Completed over 225 problems on LeetCode, focusing on Data Structures & Algorithms.</li>
     <li>Maintaining a coding consistency streak with daily problem-solving on LeetCode and HackerRank.</li>
     <li>Completed numerous projects in web development and have a strong interest in building interactive and dynamic websites.</li>
   </ul>
-</p>
+</div>
+
+<hr>
 
 <h3 align="left">Let's Build Something Amazing Together! 💻</h3>
 <p align="left">
