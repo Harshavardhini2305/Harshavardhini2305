@@ -1,85 +1,95 @@
 <!-- Banner Image -->
-<img src="https://b1463816.smushcdn.com/1463816/wp-content/uploads/2015/04/banner-web-development.png?lossy=2&strip=1&webp=1" alt="MasterHead" />
-
-<h1 align="center">Hello, I'm PASUPULETI HARSHAVARDHINI 👋</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
-
-<!-- Coding Image -->
-<img align="right" alt="Coding" width="350" src="https://img.freepik.com/free-vector/cute-girl-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-isolated-flat_138676-9487.jpg?semt=ais_hybrid" />
-
-<!-- Profile views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshavardhini2305&label=Profile%20views&color=0e75b6&style=flat" alt="harshavardhini2305" /> </p>
-
-<h3 align="left">Connect with Me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/pasupuleti-harshavardhini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasupuleti harshavardhini" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/pasupuleti-harshavardhini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pasupuleti harshavardhini" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/harshavardhini2305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshavardhini2305" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://b1463816.smushcdn.com/1463816/wp-content/uploads/2015/04/banner-web-development.png?lossy=2&strip=1&webp=1" alt="MasterHead" width="100%" />
 </p>
 
-<hr>
+# Hello, I'm PASUPULETI HARSHAVARDHINI 👋
 
-<h3 align="left">Education:</h3>
-<div style="background-color:#f1f1f1; padding: 15px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-  <strong>Bachelor of Technology (B.Tech) in Computer Science and Engineering</strong><br />
-  <em>Parul University</em> | Vadodara, Gujarat<br />
-  <strong>Currently in Semester 5</strong><br />
-  Focus areas: Data Structures, Algorithms, Web Development, Frontend Technologies (HTML, CSS, JavaScript).<br />
-  Passionate about solving real-world problems through coding and eager to learn more about technologies like React and Node.js.
-</div>
+### A passionate Frontend Developer from India with a love for problem-solving and building amazing projects.
 
-<hr>
+---
 
-<h3 align="left">Skills & Technologies:</h3>
-<div style="background-color:#f9f9f9; padding: 15px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-  <strong>Languages:</strong> C, C++, JavaScript, Python<br />
-  <strong>Web Technologies:</strong> HTML5, CSS3, JavaScript, React, Bootstrap, jQuery<br />
-  <strong>Version Control:</strong> Git, GitHub<br />
-  <strong>Databases:</strong> MySQL, MongoDB (learning)<br />
-  <strong>Other Tools:</strong> Visual Studio Code<br />
-  <strong>IDE/Editor:</strong> VS Code, Eclipse<br />
-</div>
+<!-- Profile Stats -->
+<p align="center">
+  <a href="https://github.com/harshavardhini2305">
+    <img src="https://komarev.com/ghpvc/?username=harshavardhini2305&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
-<hr>
+<!-- Social Links -->
+### Connect with me 🌍:
+<p align="center">
+  <a href="https://linkedin.com/in/pasupuleti-harshavardhini" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
+  <a href="https://www.leetcode.com/pasupuleti-harshavardhini" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" height="30" /></a>
+  <a href="https://www.hackerrank.com/harshavardhini2305" target="blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" height="30" /></a>
+</p>
 
-<h3 align="left">Projects:</h3>
-<div style="background-color:#f9f9f9; padding: 15px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-  <strong>Temperature Converter:</strong> A web app for converting temperatures between Celsius, Fahrenheit, and Kelvin.<br />
-  <strong>Stopwatch:</strong> A stopwatch web app built with HTML, CSS, and JavaScript for time tracking.<br />
-  <strong>Personal Portfolio:</strong> My own portfolio website showcasing my projects and skills. Built with HTML, CSS, and JavaScript.<br />
-  <strong>LeetCode Solutions:</strong> A collection of my solutions to various algorithmic problems on LeetCode.
-</div>
+---
 
-<hr>
+### 🧑‍💻 Technologies & Tools I Use:
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+</p>
 
-<h3 align="left">GitHub Stats:</h3>
-<div style="background-color:#f1f1f1; padding: 15px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshavardhini2305&show_icons=true&locale=en&layout=compact" alt="harshavardhini2305" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshavardhini2305&show_icons=true&locale=en" alt="harshavardhini2305" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshavardhini2305&" alt="harshavardhini2305" /></p>
-</div>
+---
 
-<hr>
+### 🚀 My GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshavardhini2305&show_icons=true&locale=en&theme=radical" alt="Harshavardhini's GitHub Stats" />
+</p>
 
-<h3 align="left">My Coding Journey:</h3>
-<div style="background-color:#f9f9f9; padding: 15px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-  I started my coding journey in my college years with a passion for web development. Over time, I have honed my skills in front-end technologies, particularly HTML, CSS, JavaScript, and React. Currently, I am expanding my knowledge of algorithms and data structures to solve complex problems efficiently. I aim to improve my skills further and work on impactful projects that solve real-world challenges.
-</div>
+---
 
-<hr>
+### 📊 Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshavardhini2305&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
 
-<h3 align="left">Achievements:</h3>
-<div style="background-color:#f9f9f9; padding: 15px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-  <ul>
-    <li>Completed over 50 problems on LeetCode, focusing on Data Structures & Algorithms.</li>
-    <li>Maintaining a coding consistency streak with daily problem-solving on LeetCode.</li>
-    <li>Completed numerous projects in web development and have a strong interest in building interactive and dynamic websites.</li>
-  </ul>
-</div>
+---
 
-<hr>
+### 🔥 GitHub Streak:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshavardhini2305&theme=radical" alt="GitHub Streak" />
+</p>
 
-<h3 align="left">Let's Build Something Amazing Together! 💻</h3>
-<p align="left">
-  I am open to collaboration on web development projects, contributing to open-source projects, or working on tech-related challenges. Feel free to reach out if you'd like to connect or work together!
+---
+
+### 👨‍💻 Current Projects:
+- [**Temperature Converter**](https://github.com/harshavardhini2305/TEMPERATURECONVERTER) - A simple web app for converting between different temperature units.
+- [**Stopwatch**](https://github.com/harshavardhini2305/STOPWATCH) - A stopwatch app built using HTML, CSS, and JavaScript.
+
+---
+
+### 🎓 Education & Certifications:
+- **Bachelor's in Computer Science** (in progress)
+---
+
+### 🌱 I’m currently learning:
+- Advanced Frontend Development (React, Vue.js)
+- Full-Stack Development (Node.js, Express, MongoDB)
+
+---
+
+### 💬 Fun Facts:
+- I love solving coding challenges and learning new programming languages.
+- I'm a huge fan of open-source projects and love contributing to them.
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my GitHub Profile! Feel free to check out my projects and connect with me!</i>
 </p>
