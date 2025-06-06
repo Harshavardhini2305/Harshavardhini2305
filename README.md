@@ -19,8 +19,8 @@
 <!-- Social Links -->
 ### Connect with me 🌍:
 <p align="center">
-  <a href="https://linkedin.com/in/pasupuleti-harshavardhini" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
-  <a href="https://www.leetcode.com/pasupuleti-harshavardhini" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" height="30" /></a>
+  <a href="https://www.linkedin.com/in/harshavardhini-coder/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" /></a>
+  <a href="https://leetcode.com/u/PasupuletiHarshavardhini/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" height="30" /></a>
   <a href="https://www.hackerrank.com/harshavardhini2305" target="blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" height="30" /></a>
 </p>
 
